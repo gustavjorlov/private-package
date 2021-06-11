@@ -1,1 +1,1 @@
-export function do_it(): string;
+export function do_it(what: string): string;
