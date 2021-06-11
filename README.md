@@ -1,0 +1,1 @@
+AWS_PROFILE=private aws codeartifact login --tool npm --repository my-team-repository --domain example-domain --domain-owner 849037323980 --region=eu-west-1 --namespace=gurra
