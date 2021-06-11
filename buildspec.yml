@@ -16,5 +16,4 @@ phases:
   post_build:
     commands:
       - echo Entered post_build phase
-      - npm version patch
       - npm publish
